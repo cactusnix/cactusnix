@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm cactusnix! A front-end engineer.
+I'm cactusnix! 
+Just do something different.
 
 ### GitHub Stats
 
